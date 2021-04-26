@@ -73,29 +73,29 @@
 ##### 一些稍微有用的CODE
 
 - 和[mujinsama](https://github.com/mujinsama)合作的在线考试小程序
-  -- 后端(Python):  https://github.com/kirineko/online_test_be
-  -- 前端(mpvue):  https://github.com/kirineko/online_test
+  - 后端(Python):  https://github.com/kirineko/online_test_be
+  - 前端(mpvue):  https://github.com/kirineko/online_test
 
 - 和[HosiRen星涟](https://hosiren.com/)大人合作的234渗透测试脚本
-  -- Python code: https://github.com/HosiRen/FTP2.3.4_PAYLOAD_f_u_c_k
+  - Python code: https://github.com/HosiRen/FTP2.3.4_PAYLOAD_f_u_c_k
 
 - 或许对学习Redis有用的一些DEMO程序
-  -- Twitter的mini仿制站(Python+模板引擎): https://github.com/kirineko/retwis-py
-  -- Twitter的前后端分离仿制站(Python后端): https://github.com/kirineko/retwis-be
-  -- Twitter的前后端分离仿制站(vue前端): https://github.com/kirineko/retwis-fe
-  -- 简易个人博客项目(Python): https://github.com/kirineko/blog_demo
-  -- 签到项目(Ruby): https://github.com/kirineko/qiandao
-  -- 使用EventSource的聊天室项目(Python): https://github.com/kirineko/redis_chat
-  -- 延迟队列接入示例(PHP): https://github.com/kirineko/delay-demo
-  -- SDS DEMO项目( C ): https://github.com/kirineko/SDS
+  - Twitter的mini仿制站(Python+模板引擎): https://github.com/kirineko/retwis-py
+  - Twitter的前后端分离仿制站(Python后端): https://github.com/kirineko/retwis-be
+  - Twitter的前后端分离仿制站(vue前端): https://github.com/kirineko/retwis-fe
+  - 简易个人博客项目(Python): https://github.com/kirineko/blog_demo
+  - 签到项目(Ruby): https://github.com/kirineko/qiandao
+  - 使用EventSource的聊天室项目(Python): https://github.com/kirineko/redis_chat
+  - 延迟队列接入示例(PHP): https://github.com/kirineko/delay-demo
+  - SDS DEMO项目( C ): https://github.com/kirineko/SDS
 
 - 和[8023酱](https://github.com/8023)合作的不正经项目
-  -- Ruby/WebSocket: https://github.com/kirineko/game
+  - Ruby/WebSocket: https://github.com/kirineko/game
 
 - 和[付总](https://github.com/fuchongjun)合作的bitcoin周边程序
-  -- msgcat(Python): https://github.com/kirineko/msgcat
-  -- votes-fe(HTML): https://github.com/kirineko/votes-fe
-  -- votes-manage(PHP): https://github.com/kirineko/votes-manage
+  - msgcat(Python): https://github.com/kirineko/msgcat
+  - votes-fe(HTML): https://github.com/kirineko/votes-fe
+  - votes-manage(PHP): https://github.com/kirineko/votes-manage
 
 - ~~女装项目~~
-  -- Dress: https://github.com/kirineko/Dress
+  - Dress: https://github.com/kirineko/Dress
