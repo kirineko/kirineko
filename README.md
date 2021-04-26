@@ -4,7 +4,7 @@
 
 ![Web Developer](https://i.loli.net/2021/04/26/Worn2BNHJ9kwpFg.jpg)
 
-##### 基本设定
+### 基本设定
 
 ℹ️ kirineko, 设定是白魔法程序喵, 热爱Web世界里的一切, 也热爱二次元, 信仰是: **代码改变世界**
 
@@ -16,7 +16,7 @@
 
 ✉️ kirineko并不讨厌人类, 欢迎和咱贴贴. 联系方式是: `echo 'Nzk4MzYwNjg3QHFxLmNvbQo=' | base64 -d`
 
-##### 技术设定
+### 技术设定
 
 🌐 Fullstack Web Developer
 
@@ -42,7 +42,7 @@
 👩‍💻 最想加入的项目组是[萌娘百科](https://zh.moegirl.org.cn/), 其次是[Github档案馆](https://archiveprogram.github.com/)
 
 
-##### 二次元设定
+### 二次元设定
 
 🎬 在魔法学院学习时, 受到大魔法使AD安利Galgame入坑二次元
 
@@ -58,7 +58,7 @@
 
 -----------------
 
-##### 一些博客 ~~(人很懒, 好久没更)~~
+### 一些博客 ~~(人很懒, 好久没更)~~
 
 - 我的站点: https://www.kirineko.tech
 
@@ -70,7 +70,7 @@
 
 -------------------------
 
-##### 一些稍微有用的CODE
+### 一些稍微有用的CODE
 
 - 和[mujinsama](https://github.com/mujinsama)合作的在线考试小程序
   - 后端(Python):  https://github.com/kirineko/online_test_be
