@@ -2,7 +2,7 @@
 
 #### Web Developer
 
-![Web Developer](https://sm.ms/image/Worn2BNHJ9kwpFg)
+![Web Developer](https://i.loli.net/2021/04/26/Worn2BNHJ9kwpFg.jpg)
 
 ##### 基本设定
 
