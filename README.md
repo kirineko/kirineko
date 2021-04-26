@@ -1,6 +1,6 @@
 ### 👋, Welcome -> kirineko
 
-#### Web Developer
+#### A Web Developer
 
 ![Web Developer](https://i.loli.net/2021/04/26/Worn2BNHJ9kwpFg.jpg)
 
