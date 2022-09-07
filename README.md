@@ -4,9 +4,11 @@
 
 ![Web Developer](https://i.loli.net/2021/04/26/Worn2BNHJ9kwpFg.jpg)
 
+TODO: 准备放点女装照替换一下?
+
 ### 基本设定
 
-ℹ️ kirineko, 设定是白魔法程序喵, 热爱Web世界里的一切, 也热爱二次元, 信仰是: **代码改变世界**
+ℹ️ kirineko, 设定是美少女·白魔法程序喵, 热爱Web世界里的一切, 也热爱二次元, 信仰是: **代码改变世界**
 
 🤩 喜欢**废萌**和**傲娇**, 同时自己可能也是~~傲娇~~(bushi
 
@@ -21,9 +23,9 @@
 🌐 Fullstack Web Developer
 
 🖥 技术栈
-- 「语言」Python > JavaScript | PHP 
-- 「平台」Ubuntu Linux ｜Caddy | MySQL | Redis
-- 「框架」DRF = Bottle > React = Vue
+- 「语言」Python > JavaScript | PHP
+- 「平台」Ubuntu Linux ｜Caddy | MySQL | Redis | Mongodb
+- 「框架」Flask = Bottle > DRF > Vue > React
 
 👍🏻 喜欢的语言: C# -> Ruby -> Python 3
 
@@ -35,9 +37,9 @@
 
 😐 喜欢Golang简洁的设计, 但讨厌Golang丑陋的语法
 
-🙇‍♀️ 正在学习:  asyncio
+🙇‍♀️ 正在学习: `Web3`
 
-🤞 想要学习：咱也想学**渗透测试**，也想当黑客鸭
+🤞 想要学习： `DApp`, `DAO`, 如果有时间真的想做一个支持`区块链` & `IOT`的**xyn涩交软件**
 
 👩‍💻 最想加入的项目组是[萌娘百科](https://zh.moegirl.org.cn/), 其次是[Github档案馆](https://archiveprogram.github.com/)
 
@@ -50,11 +52,13 @@
 
 💥 喜欢废萌和傲娇。最喜欢的动画是「[lucky⭐️star](https://www.bilibili.com/bangumi/play/ss1293/)」, 最喜欢的角色是「柊镜」
 
-📚 有时间会读轻小说(~~但没时间~~), 最近在读的是「龙王的工作」
+📚 有时间会读轻小说(~~但没时间~~), 最近在读的是「龙王的工作」, 读了两年还没有读完
 
 🌐 喜欢的网站是[萌娘百科](https://zh.moegirl.org.cn/), 还有以前的bilibili和acfun
 
-💟 偶尔会在主人那里玩儿主机游戏。最近在玩儿原神。喜欢温迪、可莉、莫娜, 是个蒙德人。有奇怪的XP, 但不能说。 ~~偶尔女装~~
+💟 偶尔会在主人那里玩儿主机游戏。~~最近在玩儿原神。喜欢温迪、可莉、莫娜, 是个蒙德人。有奇怪的XP, 但不能说。~~, ~~偶尔女装~~, 最近玩儿的是「艾尔登法环」, 实际上是第一次接触魂类游戏，不过已经全成就了捏.
+
+📺 看vtuber, 才不认识 **雏草姬** | **小孩梓** 这些呢
 
 -----------------
 
@@ -82,7 +86,7 @@
 - 或许对学习Redis有用的一些DEMO程序
   - Twitter的mini仿制站(Python+模板引擎): https://github.com/kirineko/retwis-py
   - Twitter的前后端分离仿制站(Python后端): https://github.com/kirineko/retwis-be
-  - Twitter的前后端分离仿制站(vue前端): https://github.com/kirineko/retwis-fe
+  - Twitter的前后端分离仿制站(vue 2前端): https://github.com/kirineko/retwis-fe
   - 简易个人博客项目(Python): https://github.com/kirineko/blog_demo
   - 签到项目(Ruby): https://github.com/kirineko/qiandao
   - 使用EventSource的聊天室项目(Python): https://github.com/kirineko/redis_chat
