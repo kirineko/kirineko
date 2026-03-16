@@ -80,6 +80,11 @@
 - 在编教材《AI 辅助应用开发实战》（预计 2026.08 出版）
 - 录制视频课程《Redis 设计与实现》：[bilibili](https://www.bilibili.com/video/BV1qE411T719/)
 
+**公众号文章**
+
+- [从190行代码开始：Coding Agent 的自举与进化](https://mp.weixin.qq.com/s/a6ueoJlCQjq1LWiGd5NAVA)
+- [「CS Mentor」开发小记](https://mp.weixin.qq.com/s/59rmpscM-qN4uK8Rq7_z0Q)
+
 ---
 
 ### 🌸 二次元设定
@@ -98,8 +103,3 @@
 - 💬 微信公众号：**喵喵电脑技术**
 - 💕 对象：[yukosama](https://github.com/mujinsama)
 - 📮 联系方式：`echo 'Nzk4MzYwNjg3QHFxLmNvbQo=' | base64 -d`
-
-### 📌 文章推荐
-
-- [从190行代码开始：Coding Agent 的自举与进化](https://mp.weixin.qq.com/s/a6ueoJlCQjq1LWiGd5NAVA)
-- [「CS Mentor」开发小记](https://mp.weixin.qq.com/s/59rmpscM-qN4uK8Rq7_z0Q)
