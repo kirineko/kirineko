@@ -6,11 +6,11 @@
 
 ---
 
-### 🎓 专业身份
+### 🙋 个人介绍
 
-- **广州软件学院** 人工智能专业负责人
-- 研究方向：**Code Agent · Vibe Coding · Python Web**
-- 省级青年创新人才项目主持人：《基于生成式人工智能的测试用例生成技术研究》
+嗨，我是 kirineko，**广州软件学院**人工智能专业负责人、**系统架构设计师**，主要研究 **Code Agent · Vibe Coding · Python Web**，同时也是省级青年创新人才项目主持人（《基于生成式人工智能的测试用例生成技术研究》）。
+
+> 🌟 **Code Change World，Vibe For Everything**
 
 ---
 
@@ -21,6 +21,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B35?style=flat-square&logo=openai&logoColor=white)
 ![LLamaFactory](https://img.shields.io/badge/LLamaFactory-7B2FBE?style=flat-square&logo=meta&logoColor=white)
 
 **⚙️ 后端 & 数据**
