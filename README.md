@@ -1,106 +1,79 @@
-### 👋, Welcome -> kirineko
+### 👋 Welcome → kirineko
 
-#### A Web Developer
+![Banner](https://i.loli.net/2021/04/26/Worn2BNHJ9kwpFg.jpg)
 
-![Web Developer](https://i.loli.net/2021/04/26/Worn2BNHJ9kwpFg.jpg)
+> ℹ️ **kirineko** — 美少女·白魔法程序喵，热爱 Web 世界里的一切，也热爱二次元。信仰是：**代码改变世界**。
 
-TODO: 准备放点女装照替换一下?
+---
 
-### 基本设定
+### 🎓 专业身份
 
-ℹ️ kirineko, 设定是美少女·白魔法程序喵, 热爱Web世界里的一切, 也热爱二次元, 信仰是: **代码改变世界**
+- **广州软件学院** 人工智能专业负责人
+- 研究方向：**Code Agent · Vibe Coding · Python Web**
+- 省级青年创新人才项目主持人：《基于生成式人工智能的测试用例生成技术研究》
 
-🤩 喜欢**废萌**和**傲娇**, 同时自己可能也是~~傲娇~~(bushi
+---
 
-💕 已有主人, 主人是2.5次元技术宅美少女「[yukosama](https://github.com/mujinsama)」
+### 🔬 近期关注和复现的项目
 
-🤔 常活跃于一些奇奇怪怪的技术(伪)论坛和社区, CP是某不科学的小黑客「[HosiRen星涟](https://hosiren.com/)」
+| 项目 | 描述 | 技术 |
+|------|------|------|
+| [nanocode](https://github.com/kirineko/nanocode) | Minimal Claude Code alternative — 单文件，零依赖，~250 行 | Python |
+| [Mini-Agent](https://github.com/kirineko/Mini-Agent) | 展示 Agent 核心执行流水线的极简生产级 Demo | Python |
+| [Agent-Skills-for-Context-Engineering](https://github.com/kirineko/Agent-Skills-for-Context-Engineering) | Context 工程、多 Agent 架构技能库 | Python |
+| [deep-agents-from-scratch](https://github.com/kirineko/deep-agents-from-scratch) | 从零实现 Deep Agents | Jupyter Notebook |
+| [deep-agents-ui](https://github.com/kirineko/deep-agents-ui) | Deep Agents 自定义前端 UI | TypeScript |
+| [deep_research_from_scratch](https://github.com/kirineko/deep_research_from_scratch) | 从零实现 Deep Research | Jupyter Notebook |
+| [gemini-fullstack-langgraph-quickstart](https://github.com/kirineko/gemini-fullstack-langgraph-quickstart) | Gemini 2.5 + LangGraph 构建 Fullstack Agents | Jupyter Notebook |
 
-✉️ kirineko并不讨厌人类, 欢迎和咱贴贴. 联系方式是: `echo 'Nzk4MzYwNjg3QHFxLmNvbQo=' | base64 -d`
+---
 
-### 技术设定
+### 📝 论文 & 教学成果
 
-🌐 Fullstack Web Developer
+**论文**
 
-🖥 技术栈
-- 「语言」Python > JavaScript | PHP
-- 「平台」Ubuntu Linux ｜Caddy | MySQL | Redis | Mongodb
-- 「框架」Flask = Bottle > DRF > Vue > React
+- 《Agent = LLM + Tools + Context》（预计 2026.11 出版）
+- 《云原生数据科学实验教学平台的设计与应用》（2026.04）
+- 《生成式 AI 驱动的数据分析实验教学改革》（2026.03）
+- 《互联网延迟队列解决方案设计》（2021.01）
 
-👍🏻 喜欢的语言: C# -> Ruby -> Python 3
+**讲义 & 教材**
 
-👎 不喜欢的语言: Java
+- 《AI 辅助应用开发讲义》
+- 《AI 应用开发实战讲义 —— LangChain 版》
+- 在编教材《AI 辅助应用开发实战教程》（预计 2026.08 出版）
+- 录制视频课程《Redis 设计与实现》
 
-📖 喜欢的书: [＜流畅的Python＞](https://www.ituring.com.cn/book/1564)
+---
 
-ℹ️ 鸭子类型推崇者, 喜欢简单优美的语言(~~才不是因为脑子不够用呢!~~)
+### 🖥 技术栈
 
-😐 喜欢Golang简洁的设计, 但讨厌Golang丑陋的语法
+**AI / Agent**
+`Claude Code` `LangChain` `LLamaFactory` `CherryStudio` `OpenClaw`
 
-🙇‍♀️ 正在学习: `Web3`
+**后端 & 数据**
+`Python` `FastAPI` `Flask` `MySQL` `MongoDB` `Redis`
 
-🤞 想要学习： `DApp`, `DAO`, 如果有时间真的想做一个支持`区块链` & `IOT`的**xyn涩交软件**
+**前端**
+`JavaScript` `Next.js` `Vue`
 
-👩‍💻 最想加入的项目组是[萌娘百科](https://zh.moegirl.org.cn/), 其次是[Github档案馆](https://archiveprogram.github.com/)
+**DevOps**
+`Linux` `Docker` `Kubernetes`
 
+---
 
-### 二次元设定
+### 🌸 二次元设定
 
-🎬 在魔法学院学习时, 受到大魔法使AD安利Galgame入坑二次元
+- 动漫偏爱空气系日常：《摇曳露营》《幸运星》《轻音少女》《孤独摇滚》《Angel Beats》
+- 游戏：《33号远征队》《艾尔登法环（全成就）》《空洞骑士：丝之歌》《空之轨迹》《Steins;Gate》《Ever17》，原神/崩铁也玩
+- 喜欢**傲娇**和**废萌**，最爱角色是「柊镜」和「泉此方」
+- 女装风格：可爱系 & 自然系
 
-🎮 世界观受 **Key社** & **京阿尼** & **Ever17** & **Steins;Gate**等作品影响较深, 喜欢通过读Galgame的词条去学习各种neta. 玩儿过不少Galgame
+---
 
-💥 喜欢废萌和傲娇。最喜欢的动画是「[lucky⭐️star](https://www.bilibili.com/bangumi/play/ss1293/)」, 最喜欢的角色是「柊镜」
+### 🔗 链接 & 联系
 
-📚 有时间会读轻小说(~~但没时间~~), 最近在读的是「龙王的工作」, 读了两年还没有读完
-
-🌐 喜欢的网站是[萌娘百科](https://zh.moegirl.org.cn/), 还有以前的bilibili和acfun
-
-💟 偶尔会在主人那里玩儿主机游戏。~~最近在玩儿原神。喜欢温迪、可莉、莫娜, 是个蒙德人。有奇怪的XP, 但不能说。~~, ~~偶尔女装~~, 最近玩儿的是「艾尔登法环」, 实际上是第一次接触魂类游戏，不过已经全成就了捏.
-
-📺 看vtuber, 才不认识 **雏草姬** | **小孩梓** 这些呢
-
------------------
-
-### 一些博客 ~~(人很懒, 好久没更)~~
-
-- 我的站点: https://www.kirineko.tech
-
-- github博客: http://kirineko.github.io
-
-- 博客园: https://www.cnblogs.com/kassadin
-
-- ~~天天写胶片,没时间更,烦躁~~
-
--------------------------
-
-### 一些稍微有用的CODE
-
-- 和[mujinsama](https://github.com/mujinsama)合作的在线考试小程序
-  - 后端(Python):  https://github.com/kirineko/online_test_be
-  - 前端(mpvue):  https://github.com/kirineko/online_test
-
-- 和[HosiRen星涟](https://hosiren.com/)大人合作的234渗透测试脚本
-  - Python code: https://github.com/HosiRen/FTP2.3.4_PAYLOAD_f_u_c_k
-
-- 或许对学习Redis有用的一些DEMO程序
-  - Twitter的mini仿制站(Python+模板引擎): https://github.com/kirineko/retwis-py
-  - Twitter的前后端分离仿制站(Python后端): https://github.com/kirineko/retwis-be
-  - Twitter的前后端分离仿制站(vue 2前端): https://github.com/kirineko/retwis-fe
-  - 简易个人博客项目(Python): https://github.com/kirineko/blog_demo
-  - 签到项目(Ruby): https://github.com/kirineko/qiandao
-  - 使用EventSource的聊天室项目(Python): https://github.com/kirineko/redis_chat
-  - 延迟队列接入示例(PHP): https://github.com/kirineko/delay-demo
-  - SDS DEMO项目( C ): https://github.com/kirineko/SDS
-
-- 和[8023酱](https://github.com/8023)合作的不正经项目
-  - Ruby/WebSocket: https://github.com/kirineko/game
-
-- 和[付总](https://github.com/fuchongjun)合作的bitcoin周边程序
-  - msgcat(Python): https://github.com/kirineko/msgcat
-  - votes-fe(HTML): https://github.com/kirineko/votes-fe
-  - votes-manage(PHP): https://github.com/kirineko/votes-manage
-
-- ~~女装项目~~
-  - Dress: https://github.com/kirineko/Dress
-  - QQ Group：860726503
+- GitHub 博客：[kirineko.github.io](http://kirineko.github.io)
+- 博客园：[cnblogs/kassadin](https://www.cnblogs.com/kassadin)
+- 对象：[yukosama](https://github.com/mujinsama)
+- 联系方式：`echo 'Nzk4MzYwNjg3QHFxLmNvbQo=' | base64 -d`
