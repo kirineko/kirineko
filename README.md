@@ -8,9 +8,10 @@
 
 ### 🙋 个人介绍
 
-嗨，我是 kirineko，**广州软件学院**人工智能专业负责人、**系统架构设计师**，主要研究 **Code Agent · Vibe Coding · Python Web**，同时也是省级青年创新人才项目主持人（《基于生成式人工智能的测试用例生成技术研究》）。
-
-> 🌟 **Code Change World，Vibe For Everything**
+- 🏫 **广州软件学院** 人工智能专业负责人 · **系统架构设计师**
+- 🔭 研究方向：**Code Agent · Vibe Coding · Python Web**
+- 🏆 省级青年创新人才项目主持人：《基于生成式人工智能的测试用例生成技术研究》
+- 🌟 愿景：**Code Change World，Vibe For Everything**
 
 ---
 
@@ -94,5 +95,11 @@
 
 - 📖 GitHub 博客：[kirineko.github.io](http://kirineko.github.io)
 - ✍️ 博客园：[cnblogs/kassadin](https://www.cnblogs.com/kassadin)
+- 💬 微信公众号：**喵喵电脑技术**
 - 💕 对象：[yukosama](https://github.com/mujinsama)
 - 📮 联系方式：`echo 'Nzk4MzYwNjg3QHFxLmNvbQo=' | base64 -d`
+
+### 📌 文章推荐
+
+- [从190行代码开始：Coding Agent 的自举与进化](https://mp.weixin.qq.com/s/a6ueoJlCQjq1LWiGd5NAVA)
+- [「CS Mentor」开发小记](https://mp.weixin.qq.com/s/59rmpscM-qN4uK8Rq7_z0Q)
