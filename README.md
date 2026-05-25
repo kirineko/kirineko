@@ -13,6 +13,15 @@
 
 ---
 
+### 🚀 开源项目
+
+- [Deepy](https://github.com/kirineko/deepy)：面向 DeepSeek 和 OpenAI 兼容平台的终端编程 Agent，支持项目阅读、文件修改、命令执行、网页检索和长会话恢复。
+- [Deepy Site](https://github.com/kirineko/deepy-site)：Deepy 安装与下载站点，提供中英文安装脚本入口。
+- [Deepy Skill Market](https://github.com/kirineko/deepy-skill-market)：Deepy 的 Agent Skill 轻量市场服务，支持技能包浏览、下载、安装、卸载和更新。
+- 项目站点：[deepy.kirineko.tech](https://deepy.kirineko.tech/) · [kirineko.github.io/deepy](https://kirineko.github.io/deepy/)
+
+---
+
 ### 🛠 技术栈
 
 **🤖 AI / Agent**
@@ -42,15 +51,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
----
-
-### 🚀 开源项目
-
-- [Deepy](https://github.com/kirineko/deepy)：面向 DeepSeek 和 OpenAI 兼容平台的终端编程 Agent，支持项目阅读、文件修改、命令执行、网页检索和长会话恢复。
-- [Deepy Site](https://github.com/kirineko/deepy-site)：Deepy 安装与下载站点，提供中英文安装脚本入口。
-- [Deepy Skill Market](https://github.com/kirineko/deepy-skill-market)：Deepy 的 Agent Skill 轻量市场服务，支持技能包浏览、下载、安装、卸载和更新。
-- 项目站点：[deepy.kirineko.tech](https://deepy.kirineko.tech/) · [kirineko.github.io/deepy](https://kirineko.github.io/deepy/)
 
 ---
 
