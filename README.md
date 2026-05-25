@@ -8,27 +8,8 @@
 
 ### 🙋 个人介绍
 
-- 🏫 人工智能专业负责人 · **系统架构设计师**
 - 🔭 研究方向：**Code Agent · Vibe Coding · Python Web**
-- 🏆 省级青年创新人才项目主持人：《基于生成式人工智能的测试用例生成技术研究》
 - 🌟 愿景：**Code Change World，Vibe For Everything**
-
-<details>
-<summary>🤖 AI 画像（点击展开）</summary>
-
-> 以下由 AI 根据 GitHub 项目与个人资料自动生成。
-
-kirineko 是一个典型的**技术浪潮早期跟进者**。翻阅其 GitHub 提交时间线，可以清晰看到一条演进轨迹：2019 年微信小程序与 Redis 全栈开发，2022 年 Flutter 跨端实践，2023 年 Java 企业级系统，2024 年 AI Chatbot 与 DeepSeek 集成，2025 年 Dify + Unreal Engine 的跨界尝试，直到 2026 年深入 Agent 系统内核——每一次转身都踩在浪头上，而且都留下了可运行的代码。
->
-> 他有一个鲜明的「**从零实现**」癖好：250 行复现 Claude Code（nanocode）、从头搭 Deep Agent 执行流水线、手写 Deep Research——这不是为了造轮子，而是一种彻底理解事物本质的方式。这种习惯也渗透进教学：他不只是讲 LangChain 怎么用，而是带着学生把 Agent = LLM + Tools + Context 这件事讲透、写成论文。
->
-> 技术广度上，Python、TypeScript、Java、Dart、C++、GDScript、Elixir 均有涉猎，横跨 Web、游戏引擎、区块链、函数式编程——与其说是「全栈」，不如说是**对技术本身有旺盛好奇心**的人，语言只是顺手拿起的工具。
->
-> **工程师 × 教育者 × 研究者**三重身份在他身上并不割裂：项目做完变讲义，讲义沉淀成教材，思考提炼成论文，论文再反哺下一轮实践。Vibe Coding 对他而言不是口号，是日常工作流。
->
-> 如果用一句话概括：**一个把"学习"和"输出"焊死在一起的 AI 时代工程师**。
-
-</details>
 
 ---
 
@@ -39,9 +20,7 @@ kirineko 是一个典型的**技术浪潮早期跟进者**。翻阅其 GitHub �
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B35?style=flat-square&logo=openai&logoColor=white)
-![LLamaFactory](https://img.shields.io/badge/LLamaFactory-7B2FBE?style=flat-square&logo=meta&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai-gym&logoColor=white)
 
 **⚙️ 后端 & 数据**
 
@@ -63,6 +42,15 @@ kirineko 是一个典型的**技术浪潮早期跟进者**。翻阅其 GitHub �
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+### 🚀 开源项目
+
+- [Deepy](https://github.com/kirineko/deepy)：面向 DeepSeek 和 OpenAI 兼容平台的终端编程 Agent，支持项目阅读、文件修改、命令执行、网页检索和长会话恢复。
+- [Deepy Site](https://github.com/kirineko/deepy-site)：Deepy 安装与下载站点，提供中英文安装脚本入口。
+- [Deepy Skill Market](https://github.com/kirineko/deepy-skill-market)：Deepy 的 Agent Skill 轻量市场服务，支持技能包浏览、下载、安装、卸载和更新。
+- 项目站点：[deepy.kirineko.tech](https://deepy.kirineko.tech/) · [kirineko.github.io/deepy](https://kirineko.github.io/deepy/)
 
 ---
 
