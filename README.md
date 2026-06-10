@@ -18,6 +18,8 @@
 - [Deepy](https://github.com/kirineko/deepy)：面向 DeepSeek 和 OpenAI 兼容平台的终端编程 Agent，支持项目阅读、文件修改、命令执行、网页检索和长会话恢复。
 - [Deepy Site](https://github.com/kirineko/deepy-site)：Deepy 安装与下载站点，提供中英文安装脚本入口。
 - [Deepy Skill Market](https://github.com/kirineko/deepy-skill-market)：Deepy 的 Agent Skill 轻量市场服务，支持技能包浏览、下载、安装、卸载和更新。
+- [Doc Agent](https://github.com/kirineko/doc_agent)：面向办公场景的本地 AI 桌面助手（Tauri + React），以项目文件夹为工作边界，在 Word、Excel、PPT、PDF 等文档上通过对话完成阅读、分析、改写与生成；数据与 API Key 均保存在本机。
+- [AI 辅助应用开发实战 · 配套实验代码](https://github.com/kirineko/ai-assisted-app-dev-book)：教材《AI 辅助应用开发实战》的配套实验代码与支撑材料，覆盖 Trae/Cline 入门、Skill、Plan Mode、数据分析、全栈项目等 10 章实验入口与合成数据。
 - 项目站点：[deepy.kirineko.tech](https://deepy.kirineko.tech/) · [kirineko.github.io/deepy](https://kirineko.github.io/deepy/)
 
 ---
@@ -83,7 +85,7 @@
 - [《AI 辅助应用开发讲义》](./lectures/（公开）AI辅助应用开发实验讲义.pdf)
 - [《AI 应用开发实战讲义 —— LangChain 版》](./lectures/（公开）AI原生应用开发实战实验讲义-第二版.pdf)
 - 《大数据技术实战教程》（大连理工大学出版社，2019）
-- 在编教材《AI 辅助应用开发实战》（预计 2026.08 出版）
+- 在编教材《AI 辅助应用开发实战》（预计 2026.08 出版）· [配套实验代码](https://github.com/kirineko/ai-assisted-app-dev-book)
 - 录制视频课程《Redis 设计与实现》：[bilibili](https://www.bilibili.com/video/BV1qE411T719/)
 
 **公众号文章**
